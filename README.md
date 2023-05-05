@@ -1,2 +1,2 @@
 # Dotfiles
-How i configure my Windows OS, all in one place
+How I configure my Windows OS, all in one place
